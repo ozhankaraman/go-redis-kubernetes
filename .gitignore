@@ -1,3 +1,5 @@
+go-redis-kubernetes
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
